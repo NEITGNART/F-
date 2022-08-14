@@ -1,0 +1,32 @@
+1. Master vehicle type configuration - 5 days
+2. Auto Cancellation fee deduct from e-wallet
+3. Refund (Doubt)
+4. Recurring trips
+5. Porter service(doubt)
+6. Driver Search algorithm
+7. Driver Signup- selfie update
+8. SOS updates - 2nd phase
+9. Referal updates
+10. User Categorised & signup
+11. Gratuity
+12. Driver's Detailed view including trips completed,earnings,etc
+13. Reward system(cash back on every trips) - to be discuss
+14. Call masking
+15. Localization
+16. Ontrip updates- delivery proof by driver
+17. Login updates by email/mobile
+
+
+
+
+
+Front end website including booking
+
+Dispatcher App Features
+1. On trip tracking in list with different status i.e "location not updated last 5 mins","trip statusses","sos pressed trips"
+2. Dispatch new request
+3. Map view of trip requests
+4. Heat map
+5.
+
+
